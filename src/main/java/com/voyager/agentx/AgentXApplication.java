@@ -2,14 +2,13 @@ package com.voyager.agentx;
 
 import io.micrometer.common.util.StringUtils;
 import lombok.extern.slf4j.Slf4j;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.springframework.boot.Banner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.core.env.Environment;
-import java.net.UnknownHostException;
+
 import java.net.InetAddress;
+import java.net.UnknownHostException;
 
 @SpringBootApplication
 @Slf4j
