@@ -1,4 +1,4 @@
-# 🗺️ VoyAgent - AI Travel Planner & Autonomous Agent
+# 🗺️ VoyAgent - AI Travel Planner & Autonomous Agent (Under Construction...)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=4BA1F7&center=true&width=800&lines=Hi~VoyAgent%2C+Empower+your+journey+with+AI+autonomous+planning~" alt="Typing SVG" /></a>
 
@@ -48,7 +48,7 @@ Built with **Spring Boot 3 + Spring AI + LangChain4j**, it integrates the ReAct 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/VoyAgent.git
+git clone https://github.com/Voyager0587/VoyAgent.git
 cd VoyAgent
 ```
 

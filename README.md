@@ -1,4 +1,4 @@
-# 🗺️ VoyAgent - AI 旅行规划大师
+# 🗺️ VoyAgent - AI 旅行规划大师 （施工中...）
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=4BA1F7&center=true&width=800&lines=Hi~VoyAgent%EF%BC%8C%E6%8E%8C%E6%8F%A1AI%E8%87%AA%E4%B8%BB%E8%A7%84%E5%88%92%EF%BC%8C%E6%89%93%E9%80%A0%E4%BD%A0%E7%9A%84%E4%B8%AA%E6%80%A7%E8%A1%8C%E7%A8%8B~" alt="Typing SVG" /></a>
 
@@ -46,7 +46,7 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/your-username/VoyAgent.git
+git clone https://github.com/Voyager0587/VoyAgent.git
 cd VoyAgent
 ```
 
